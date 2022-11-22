@@ -1,0 +1,28 @@
+{
+  "name": "contractverificationpoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satya-nest/contractVerificationPoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satya-nest/contractVerificationPoc/issues"
+  },
+  "homepage": "https://github.com/satya-nest/contractVerificationPoc#readme",
+  "dependencies": {
+    "solc": "^0.8.17",
+    "solc-js": "^1.0.1",
+    "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
